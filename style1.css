@@ -1,0 +1,28 @@
+div#body h1,
+div#body h2,
+div#body h3 {
+  border: 0px solid white ;
+  color:royalblue ;
+  background: black ; 
+  font-family:Harrington; 
+  text-shadow: 0px 0px 0px white,0.5px 0.5px 0px white,1px 1px 0px white,1.5px 1.5px 0px white,2px 2px 0px white,2.5px 2.5px 0px white,3px 3px 0px white;
+}
+div#body { 
+  letter-spacing: 1px;
+  border: 1px solid royalblue ;
+  font-family:Harrington; 
+  background: black ; 
+  color: white ;
+  box-shadow: 1px 1px 14px #777 !important;
+  border-radius: 10px;
+}
+#mw-head{background:transparent !important;}
+.fakelogo {
+position:absolute !important;
+top:-120px;
+left:-190px;
+z-index:100;
+}
+#siteNotice{display:none !important;}
+#p-logo a {background:transparent !important;}
+#sidebar {background:transparent !important;}
